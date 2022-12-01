@@ -1,0 +1,19 @@
+body{
+    /*ESTADOS*/
+    background-color: rgb(255, 240, 153);
+    color: rgb(102, 4, 4);
+}
+
+.card-imagen{
+    width: 500px;
+    min-height: 550px;
+    height: 15vw;
+    object-fit: cover;
+    background-color: rgb(173, 255, 210);
+}
+
+.navbar-color{
+    background-color: rgb(204, 255, 110); 
+    
+}
+
